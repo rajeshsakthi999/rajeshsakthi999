@@ -1,7 +1,8 @@
 # Hi 👋, I'm Rajesh  
 ### A Passionate Full-Stack Developer from [\India] 🌍  
 
-![Profile Banner](https://via.placeholder.com/1200x400.png?text=Rajesh+-+Full+Stack+Developer) <!-- Replace with your custom banner link -->
+![Banner](https://github.com/your-username/your-repo-name/blob/main/banner.png)
+ <!-- Replace with your custom banner link -->
 
 ---
 
