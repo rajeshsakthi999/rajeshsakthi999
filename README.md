@@ -1,12 +1,12 @@
 # Hi 👋, I'm Rajesh  
-### A Passionate Full-Stack Developer from [Your Location] 🌍  
+### A Passionate Full-Stack Developer from [\India] 🌍  
 
 ![Profile Banner](https://via.placeholder.com/1200x400.png?text=Rajesh+-+Full+Stack+Developer) <!-- Replace with your custom banner link -->
 
 ---
 
 ## 👨‍💻 About Me:
-- 🌱 I’m currently learning **Django** and **ReactJS**  
+- 🌱 i learned **python** and **Django**   
 - 💬 Ask me about **Web Development**, **Python**, and **MERN Stack**  
 - 📫 How to reach me: **[Your Email or LinkedIn](#)**  
 - ⚡ Fun Fact: I love exploring new technologies and solving challenges  
